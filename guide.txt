@@ -1,0 +1,8 @@
+guide
+
+Up -> increase speed
+Down -> decrease speed
+Left -> increase line thickness
+Right -> decrease line thickness
+
+Escape -> exit
