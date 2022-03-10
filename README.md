@@ -1,5 +1,5 @@
 ## Description
-Shapes & movement.
+Generative art.
 
 ## Requirements
 - Python 3.6+
